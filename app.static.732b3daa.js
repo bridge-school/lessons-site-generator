@@ -882,4 +882,4 @@ exports.default = function (_ref) {
 /***/ })
 /******/ ]);
 });
-//# sourceMappingURL=app.static.26fb718b.js.map
+//# sourceMappingURL=app.static.732b3daa.js.map
