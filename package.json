@@ -2,7 +2,7 @@
   "name": "lessons-site-generator",
   "version": "0.0.1",
   "license": "CC-BY-4.0",
-  "repository": "github:g2graman/lessons-site-generator",
+  "repository": "github:bridge-school/lessons-site-generator",
   "private": true,
   "scripts": {
     "start": "npx nodemon -w static.config.js --exec \"npx react-static start\"",
